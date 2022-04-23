@@ -6,11 +6,12 @@
 # Demo Video Link:<Br>
 # Presentation Link:<Br>
 # Technology Stack:<Br>
+  
 # Contributers:<Br>
   
   
-1.[Ujala Prakash](https://github.com/Shweta2254)\
-2.[Neha Kumari](https://github.com/Nidhi174)\
+1.[Ujala Prakash](https://github.com/ujala19prakash)\
+2.[Neha Kumari](https://github.com/itznehakumari4)\
 3.[Shweta Srivastava](https://github.com/Shweta2254)
 # Made at:<Br>  
   
