@@ -25,7 +25,7 @@ export default function navbar() {
               
              
             </ul>
-            <a className="navbar-brand fw-bolder fs-4 mx-auto" href="/">Navbar</a>
+            {/* <a className="navbar-brand fw-bolder fs-4 mx-auto" href="/">LOCALदुनिया</a> */}
             <button className="btn btn-outline-primary ms-auto px-4 rounded-pill"><i className='fa fa-sign-in me-2'></i>Login</button>
             <button className="btn btn-outline-primary ms-2 px-4 rounded-pill"><i className='fa fa-sign-in me-2'></i>Register</button>
           </div>

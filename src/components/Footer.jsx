@@ -54,7 +54,7 @@ const Footer = () => {
                                         <input id="newsletter1" 
                                         type="text" 
                                         className="form-control" 
-                                        placeholder="Email address" />
+                                        placeholder="Email" />
                                         <button class="btn btn-primary rounded-pill px-4" 
                                         type="button">Subscribe</button>
                                     </div>
