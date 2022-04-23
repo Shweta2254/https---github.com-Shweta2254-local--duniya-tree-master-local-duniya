@@ -10,11 +10,15 @@ import Footer from './components/Footer';
 function App() {
   return (
    <>
-   <Navbar/>
+   <Navbar/>   
    <Home/>
+   <hr/>
    <About/>
+   <hr/>
    <Services/>
+   <hr/>
    <Contact/>
+   <hr/>
    <Footer/>
    </>
   );

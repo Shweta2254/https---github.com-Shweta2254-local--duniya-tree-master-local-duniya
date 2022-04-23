@@ -10,8 +10,8 @@ const Home = () => {
                   <h1 className="display-4 fw-bolder mb-4 text-center text-white">LOCALदुनिया</h1>
                   <p className="lead text-center fs-4 mb-5 text-white">FEEL THE FRESH BUSINESS PERSPECTIVE</p>
                   <div className="buttons d-flex justify-content-center">
-                    <button className="btn btn-light me-4 rounded-pill px-4 py-2">apply here</button>
-                    <button className="btn btn-outline-light rounded-pill px-4 py-2">our services</button>
+                    <button className="btn btn-outline-light me-4 rounded-pill px-4 py-2">APPLY HERE</button>
+                    <button className="btn btn-outline-light rounded-pill px-4 py-2">OUR SERVICES</button>
                   </div>
                 </div>
               </div>

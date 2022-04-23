@@ -8,7 +8,7 @@ const Footer = () => {
                     <footer className="py-5">
                         <div className="row">
                             <div className="col-3">
-                                <h4>FINE ART</h4>
+                                <h4>LOCALदुनिया</h4>
                             </div>
 
                             <div className="col-2">
@@ -26,11 +26,7 @@ const Footer = () => {
                                         </a>
                                     </li>
                                 
-                                    <li className="nav-item mb-2">
-                                        <a to="#" className="nav-link p-0 text white">
-                                            Pricing
-                                        </a>
-                                    </li>
+                                    
                                 
                                     <li className="nav-item mb-2">
                                         <a to="#" className="nav-link p-0 text white">
@@ -55,7 +51,7 @@ const Footer = () => {
                                         type="text" 
                                         className="form-control" 
                                         placeholder="Email" />
-                                        <button class="btn btn-primary rounded-pill px-4" 
+                                        <button class="btn btn-danger rounded-pill px-4" 
                                         type="button">Subscribe</button>
                                     </div>
                                 </form>
@@ -63,7 +59,7 @@ const Footer = () => {
                         </div>
 
                         <div className="d-flex justify-content-between py-4 my-4 border-top">
-                            <p>© 2022 Company, Inc. All rights reserved.</p>
+                            <p>© 2022 LOCALदुनिया, All rights reserved.</p>
                             <ul className="list-unstyled d-flex">
                                 <li className="ms-3"><a class="link-light" href="#"><i className="fa fa-facebook fa-2x"></i></a></li>
                                 <li className="ms-3"><a class="link-light" href="#"><i className="fa fa-instagram fa-2x"></i></a></li>
