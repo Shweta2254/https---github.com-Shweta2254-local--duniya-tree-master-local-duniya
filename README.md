@@ -1,10 +1,12 @@
 # Hack36 Template Readme
 ![Built-At-Hack36](https://user-images.githubusercontent.com/81436968/164947481-12023b54-3fad-4196-801d-694ddc57f5db.png)
 <hr>
+  ## Team Name: Server_not_found<Br>
+  ## Theme: Vocal for local<Br>
 
 # Introduction:
-  ## Team Name: Server_not_found
-  ## Theme: Vocal for local<Br>
+ This is a website which provides a platform to local business owners to grow their business and increase their business scalability by providing promotions/advertisement to the companies on different social media platforms and also provides collaboration with big companies.
+  
   
 # Demo Video Link:<Br>
   [VIDEO](https://www.youtube.com/watch?v=IyATCzUqrLQ)
